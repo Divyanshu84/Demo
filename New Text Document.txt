@@ -1,7 +1,0 @@
-My first commit file
-
-<<<<<<< HEAD
-=======
-new name
->>>>>>> a1cb5a1efa5c27d4b0c762541852d7dae5e74978
-This is code 
